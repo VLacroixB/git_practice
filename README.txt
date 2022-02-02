@@ -1,2 +1,2 @@
 hello git and github
-this a demo git set up
+this is a demo git set up
